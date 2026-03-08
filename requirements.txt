@@ -1,0 +1,6 @@
+snscrape
+pandas
+openai
+jinja2
+dotenv
+asyncio
