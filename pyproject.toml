@@ -1,0 +1,14 @@
+[project]
+name = "twitter-learning"
+version = "0.1.0"
+description = "Building Twitter Knowledge Repository"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncio>=4.0.0",
+    "dotenv>=0.9.9",
+    "jinja2>=3.1.6",
+    "openai>=2.26.0",
+    "pandas>=3.0.1",
+    "snscrape>=0.7.0.20230622",
+]

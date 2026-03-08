@@ -50,6 +50,3 @@ async def run_pipeline():
     print("Tag index updated.")
     build_knowledge_links()
     print("Knowledge links updated.")
-
-if __name__ == "__main__":
-    asyncio.run(run_pipeline())
